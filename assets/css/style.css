@@ -1,0 +1,12 @@
+.btn {
+  margin-left: 100px;
+  margin-top: 100px;
+background: #d50000;
+}
+.btn:hover {
+  background: #ff8a80;
+}
+.modal {
+  background-color: #24292E;
+  color: white;
+}
